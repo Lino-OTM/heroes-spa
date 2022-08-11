@@ -1,6 +1,6 @@
 # Heroes SPA
 
-# Screenshot
+## Screenshot
 
 ![](/app-screenshot.png)
 
